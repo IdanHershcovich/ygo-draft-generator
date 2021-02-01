@@ -1,0 +1,1262 @@
+[
+    {
+        "set_name": "Legend of Blue Eyes White Dragon",
+        "set_code": "LOB",
+        "num_of_cards": 355,
+        "tcg_date": "2002-03-08"
+    },
+    {
+        "set_name": "Starter Deck: Kaiba",
+        "set_code": "SDK",
+        "num_of_cards": 96,
+        "tcg_date": "2002-03-29"
+    },
+    {
+        "set_name": "Starter Deck: Yugi",
+        "set_code": "SDY",
+        "num_of_cards": 95,
+        "tcg_date": "2002-03-29"
+    },
+    {
+        "set_name": "Metal Raiders",
+        "set_code": "MRD",
+        "num_of_cards": 432,
+        "tcg_date": "2002-06-26"
+    },
+    {
+        "set_name": "Tournament Pack: 1st Season",
+        "set_code": "TP1",
+        "num_of_cards": 60,
+        "tcg_date": "2002-09-01"
+    },
+    {
+        "set_name": "Magic Ruler",
+        "set_code": "MRL",
+        "num_of_cards": 235,
+        "tcg_date": "2002-09-16"
+    },
+    {
+        "set_name": "Spell Ruler",
+        "set_code": "SRL",
+        "num_of_cards": 208,
+        "tcg_date": "2002-09-16"
+    },
+    {
+        "set_name": "Pharaoh's Servant",
+        "set_code": "PSV",
+        "num_of_cards": 315,
+        "tcg_date": "2002-10-20"
+    },
+    {
+        "set_name": "Labyrinth of Nightmare",
+        "set_code": "LON",
+        "num_of_cards": 315,
+        "tcg_date": "2003-03-01"
+    },
+    {
+        "set_name": "Starter Deck: Joey",
+        "set_code": "SDJ",
+        "num_of_cards": 50,
+        "tcg_date": "2003-03-30"
+    },
+    {
+        "set_name": "Starter Deck: Pegasus",
+        "set_code": "SDP",
+        "num_of_cards": 50,
+        "tcg_date": "2003-03-30"
+    },
+    {
+        "set_name": "Legacy of Darkness",
+        "set_code": "LOD",
+        "num_of_cards": 202,
+        "tcg_date": "2003-06-06"
+    },
+    {
+        "set_name": "Pharaonic Guardian",
+        "set_code": "PGD",
+        "num_of_cards": 108,
+        "tcg_date": "2003-07-18"
+    },
+    {
+        "set_name": "Magician's Force",
+        "set_code": "MFC",
+        "num_of_cards": 108,
+        "tcg_date": "2003-10-10"
+    },
+    {
+        "set_name": "Dark Crisis",
+        "set_code": "DCR",
+        "num_of_cards": 212,
+        "tcg_date": "2003-12-01"
+    },
+    {
+        "set_name": "Invasion of Chaos",
+        "set_code": "IOC",
+        "num_of_cards": 224,
+        "tcg_date": "2004-03-01"
+    },
+    {
+        "set_name": "Starter Deck: Kaiba Evolution",
+        "set_code": "SKE",
+        "num_of_cards": 50,
+        "tcg_date": "2004-03-01"
+    },
+    {
+        "set_name": "Starter Deck: Yugi Evolution",
+        "set_code": "SYE",
+        "num_of_cards": 50,
+        "tcg_date": "2004-03-01"
+    },
+    {
+        "set_name": "Ancient Sanctuary",
+        "set_code": "AST",
+        "num_of_cards": 112,
+        "tcg_date": "2004-06-01"
+    },
+    {
+        "set_name": "Soul of the Duelist",
+        "set_code": "SOD",
+        "num_of_cards": 60,
+        "tcg_date": "2004-10-01"
+    },
+    {
+        "set_name": "Dark Beginning 1",
+        "set_code": "DB1",
+        "num_of_cards": 250,
+        "tcg_date": "2004-10-12"
+    },
+    {
+        "set_name": "Rise of Destiny",
+        "set_code": "RDS",
+        "num_of_cards": 60,
+        "tcg_date": "2004-11-20"
+    },
+    {
+        "set_name": "Flaming Eternity",
+        "set_code": "FET",
+        "num_of_cards": 60,
+        "tcg_date": "2005-03-01"
+    },
+    {
+        "set_name": "Dark Revelation Volume 1",
+        "set_code": "DR1",
+        "num_of_cards": 267,
+        "tcg_date": "2005-03-19"
+    },
+    {
+        "set_name": "The Lost Millennium",
+        "set_code": "TLM",
+        "num_of_cards": 60,
+        "tcg_date": "2005-06-01"
+    },
+    {
+        "set_name": "Dark Beginning 2",
+        "set_code": "DB2",
+        "num_of_cards": 250,
+        "tcg_date": "2005-07-27"
+    },
+    {
+        "set_name": "Cybernetic Revolution",
+        "set_code": "CRV",
+        "num_of_cards": 60,
+        "tcg_date": "2005-08-17"
+    },
+    {
+        "set_name": "Dark Revelation Volume 2",
+        "set_code": "DR2",
+        "num_of_cards": 224,
+        "tcg_date": "2005-10-20"
+    },
+    {
+        "set_name": "Elemental Energy",
+        "set_code": "EEN",
+        "num_of_cards": 60,
+        "tcg_date": "2005-11-16"
+    },
+    {
+        "set_name": "Shadow of Infinity",
+        "set_code": "SOI",
+        "num_of_cards": 60,
+        "tcg_date": "2006-02-18"
+    },
+    {
+        "set_name": "Starter Deck 2006",
+        "set_code": "YSD",
+        "num_of_cards": 40,
+        "tcg_date": "2006-03-23"
+    },
+    {
+        "set_name": "Enemy of Justice",
+        "set_code": "EOJ",
+        "num_of_cards": 60,
+        "tcg_date": "2006-05-17"
+    },
+    {
+        "set_name": "Power of the Duelist",
+        "set_code": "POTD",
+        "num_of_cards": 60,
+        "tcg_date": "2006-08-16"
+    },
+    {
+        "set_name": "Cyberdark Impact",
+        "set_code": "CDIP",
+        "num_of_cards": 60,
+        "tcg_date": "2006-11-15"
+    },
+    {
+        "set_name": "Dark Revelation Volume 3",
+        "set_code": "DR3",
+        "num_of_cards": 240,
+        "tcg_date": "2006-11-25"
+    },
+    {
+        "set_name": "Strike of Neos",
+        "set_code": "STON",
+        "num_of_cards": 69,
+        "tcg_date": "2007-02-28"
+    },
+    {
+        "set_name": "Force of the Breaker",
+        "set_code": "FOTB",
+        "num_of_cards": 69,
+        "tcg_date": "2007-05-16"
+    },
+    {
+        "set_name": "Starter Deck: Jaden Yuki",
+        "set_code": "YSDJ",
+        "num_of_cards": 41,
+        "tcg_date": "2007-07-25"
+    },
+    {
+        "set_name": "Starter Deck: Syrus Truesdale",
+        "set_code": "YSDS",
+        "num_of_cards": 41,
+        "tcg_date": "2007-07-25"
+    },
+    {
+        "set_name": "Tactical Evolution",
+        "set_code": "TAEV",
+        "num_of_cards": 90,
+        "tcg_date": "2007-08-15"
+    },
+    {
+        "set_name": "Dark Revelation Volume 4",
+        "set_code": "DR04",
+        "num_of_cards": 245,
+        "tcg_date": "2007-11-14"
+    },
+    {
+        "set_name": "Gladiator's Assault",
+        "set_code": "GLAS",
+        "num_of_cards": 95,
+        "tcg_date": "2007-11-14"
+    },
+    {
+        "set_name": "Phantom Darkness",
+        "set_code": "PTDN",
+        "num_of_cards": 100,
+        "tcg_date": "2008-02-13"
+    },
+    {
+        "set_name": "Gold Series",
+        "set_code": "GLD1",
+        "num_of_cards": 45,
+        "tcg_date": "2008-04-02"
+    },
+    {
+        "set_name": "Light of Destruction",
+        "set_code": "LODT",
+        "num_of_cards": 100,
+        "tcg_date": "2008-05-13"
+    },
+    {
+        "set_name": "Retro Pack",
+        "set_code": "RP01",
+        "num_of_cards": 101,
+        "tcg_date": "2008-07-08"
+    },
+    {
+        "set_name": "Starter Deck: Yu-Gi-Oh! 5D's",
+        "set_code": "5DS1",
+        "num_of_cards": 43,
+        "tcg_date": "2008-08-05"
+    },
+    {
+        "set_name": "The Duelist Genesis",
+        "set_code": "TDGS",
+        "num_of_cards": 100,
+        "tcg_date": "2008-09-02"
+    },
+    {
+        "set_name": "Crossroads of Chaos",
+        "set_code": "CSOC",
+        "num_of_cards": 100,
+        "tcg_date": "2008-11-18"
+    },
+    {
+        "set_name": "Dark Legends",
+        "set_code": "DLG1",
+        "num_of_cards": 113,
+        "tcg_date": "2008-11-21"
+    },
+    {
+        "set_name": "Crimson Crisis",
+        "set_code": "CRMS",
+        "num_of_cards": 100,
+        "tcg_date": "2009-03-03"
+    },
+    {
+        "set_name": "Gold Series 2009",
+        "set_code": "GLD2",
+        "num_of_cards": 50,
+        "tcg_date": "2009-04-21"
+    },
+    {
+        "set_name": "Raging Battle",
+        "set_code": "RGBT",
+        "num_of_cards": 100,
+        "tcg_date": "2009-05-12"
+    },
+    {
+        "set_name": "Starter Deck: Yu-Gi-Oh! 5D's 2009",
+        "set_code": "5DS2",
+        "num_of_cards": 43,
+        "tcg_date": "2009-06-09"
+    },
+    {
+        "set_name": "Retro Pack 2",
+        "set_code": "RP02",
+        "num_of_cards": 101,
+        "tcg_date": "2009-07-28"
+    },
+    {
+        "set_name": "Ancient Prophecy",
+        "set_code": "ANPR",
+        "num_of_cards": 100,
+        "tcg_date": "2009-09-01"
+    },
+    {
+        "set_name": "Stardust Overdrive",
+        "set_code": "SOVR",
+        "num_of_cards": 100,
+        "tcg_date": "2009-11-17"
+    },
+    {
+        "set_name": "Duel Terminal 1",
+        "set_code": "DT01",
+        "num_of_cards": 100,
+        "tcg_date": "2010-01-29"
+    },
+    {
+        "set_name": "Absolute Powerforce",
+        "set_code": "ABPF",
+        "num_of_cards": 100,
+        "tcg_date": "2010-02-12"
+    },
+    {
+        "set_name": "Duelist Pack: Kaiba",
+        "set_code": "DPKB",
+        "num_of_cards": 40,
+        "tcg_date": "2010-04-16"
+    },
+    {
+        "set_name": "The Shining Darkness",
+        "set_code": "TSHD",
+        "num_of_cards": 100,
+        "tcg_date": "2010-05-07"
+    },
+    {
+        "set_name": "Duel Terminal 2",
+        "set_code": "DT02",
+        "num_of_cards": 100,
+        "tcg_date": "2010-05-25"
+    },
+    {
+        "set_name": "Starter Deck: Duelist Toolbox",
+        "set_code": "5DS3",
+        "num_of_cards": 42,
+        "tcg_date": "2010-05-28"
+    },
+    {
+        "set_name": "Gold Series 3",
+        "set_code": "GLD3",
+        "num_of_cards": 50,
+        "tcg_date": "2010-06-18"
+    },
+    {
+        "set_name": "Hidden Arsenal 2",
+        "set_code": "HA02",
+        "num_of_cards": 60,
+        "tcg_date": "2010-07-15"
+    },
+    {
+        "set_name": "Duelist Revolution",
+        "set_code": "DREV",
+        "num_of_cards": 100,
+        "tcg_date": "2010-08-17"
+    },
+    {
+        "set_name": "Duel Terminal 3",
+        "set_code": "DT03",
+        "num_of_cards": 100,
+        "tcg_date": "2010-09-25"
+    },
+    {
+        "set_name": "Starstrike Blast",
+        "set_code": "STBL",
+        "num_of_cards": 100,
+        "tcg_date": "2010-11-11"
+    },
+    {
+        "set_name": "Hidden Arsenal 3",
+        "set_code": "HA03",
+        "num_of_cards": 60,
+        "tcg_date": "2010-12-02"
+    },
+    {
+        "set_name": "Duel Terminal 4",
+        "set_code": "DT04",
+        "num_of_cards": 99,
+        "tcg_date": "2011-01-25"
+    },
+    {
+        "set_name": "Storm of Ragnarok",
+        "set_code": "STOR",
+        "num_of_cards": 100,
+        "tcg_date": "2011-02-08"
+    },
+    {
+        "set_name": "Hidden Arsenal 4: Trishula's Triumph",
+        "set_code": "HA04",
+        "num_of_cards": 60,
+        "tcg_date": "2011-04-15"
+    },
+    {
+        "set_name": "Extreme Victory",
+        "set_code": "EXVC",
+        "num_of_cards": 100,
+        "tcg_date": "2011-05-06"
+    },
+    {
+        "set_name": "Duel Terminal 5a",
+        "set_code": "DT05",
+        "num_of_cards": 50,
+        "tcg_date": "2011-05-29"
+    },
+    {
+        "set_name": "Gold Series 4: Pyramids Edition",
+        "set_code": "GLD4",
+        "num_of_cards": 50,
+        "tcg_date": "2011-06-24"
+    },
+    {
+        "set_name": "Starter Deck: Dawn of the Xyz",
+        "set_code": "YS11",
+        "num_of_cards": 43,
+        "tcg_date": "2011-07-08"
+    },
+    {
+        "set_name": "Generation Force",
+        "set_code": "GENF",
+        "num_of_cards": 100,
+        "tcg_date": "2011-08-16"
+    },
+    {
+        "set_name": "Duel Terminal 5b",
+        "set_code": "DT05",
+        "num_of_cards": 50,
+        "tcg_date": "2011-09-29"
+    },
+    {
+        "set_name": "Legendary Collection 2: The Duel Academy Years Mega Pack",
+        "set_code": "LCGX",
+        "num_of_cards": 266,
+        "tcg_date": "2011-10-04"
+    },
+    {
+        "set_name": "Photon Shockwave",
+        "set_code": "PHSW",
+        "num_of_cards": 100,
+        "tcg_date": "2011-11-10"
+    },
+    {
+        "set_name": "Hidden Arsenal 5: Steelswarm Invasion",
+        "set_code": "HA05",
+        "num_of_cards": 60,
+        "tcg_date": "2011-12-01"
+    },
+    {
+        "set_name": "Order of Chaos",
+        "set_code": "ORCS",
+        "num_of_cards": 100,
+        "tcg_date": "2012-01-20"
+    },
+    {
+        "set_name": "Duel Terminal 6a",
+        "set_code": "DT06",
+        "num_of_cards": 50,
+        "tcg_date": "2012-02-03"
+    },
+    {
+        "set_name": "Ra Yellow Mega Pack",
+        "set_code": "RYMP",
+        "num_of_cards": 113,
+        "tcg_date": "2012-02-17"
+    },
+    {
+        "set_name": "Starter Deck: Xyz Symphony",
+        "set_code": "YS12",
+        "num_of_cards": 43,
+        "tcg_date": "2012-04-13"
+    },
+    {
+        "set_name": "Galactic Overlord",
+        "set_code": "GAOV",
+        "num_of_cards": 100,
+        "tcg_date": "2012-05-08"
+    },
+    {
+        "set_name": "Battle Pack: Epic Dawn",
+        "set_code": "BP01",
+        "num_of_cards": 220,
+        "tcg_date": "2012-05-24"
+    },
+    {
+        "set_name": "Duel Terminal 6b",
+        "set_code": "DT06",
+        "num_of_cards": 50,
+        "tcg_date": "2012-05-25"
+    },
+    {
+        "set_name": "Gold Series: Haunted Mine",
+        "set_code": "GLD5",
+        "num_of_cards": 55,
+        "tcg_date": "2012-06-07"
+    },
+    {
+        "set_name": "Hidden Arsenal 6: Omega Xyz",
+        "set_code": "HA06",
+        "num_of_cards": 60,
+        "tcg_date": "2012-07-24"
+    },
+    {
+        "set_name": "Return of the Duelist",
+        "set_code": "REDU",
+        "num_of_cards": 100,
+        "tcg_date": "2012-08-24"
+    },
+    {
+        "set_name": "Duel Terminal 7a",
+        "set_code": "DT07",
+        "num_of_cards": 52,
+        "tcg_date": "2012-09-28"
+    },
+    {
+        "set_name": "Legendary Collection 3: Yugi's World Mega Pack",
+        "set_code": "LCYW",
+        "num_of_cards": 306,
+        "tcg_date": "2012-09-29"
+    },
+    {
+        "set_name": "Abyss Rising",
+        "set_code": "ABYR",
+        "num_of_cards": 100,
+        "tcg_date": "2012-11-09"
+    },
+    {
+        "set_name": "Cosmo Blazer",
+        "set_code": "CBLZ",
+        "num_of_cards": 100,
+        "tcg_date": "2013-01-25"
+    },
+    {
+        "set_name": "Duel Terminal 7b",
+        "set_code": "DT07",
+        "num_of_cards": 48,
+        "tcg_date": "2013-02-01"
+    },
+    {
+        "set_name": "Star Pack 2013",
+        "set_code": "SP13",
+        "num_of_cards": 50,
+        "tcg_date": "2013-03-01"
+    },
+    {
+        "set_name": "Hidden Arsenal 7: Knight of Stars",
+        "set_code": "HA07",
+        "num_of_cards": 70,
+        "tcg_date": "2013-04-26"
+    },
+    {
+        "set_name": "Lord of the Tachyon Galaxy",
+        "set_code": "LTGY",
+        "num_of_cards": 100,
+        "tcg_date": "2013-05-17"
+    },
+    {
+        "set_name": "Super Starter: V for Victory",
+        "set_code": "YS13",
+        "num_of_cards": 42,
+        "tcg_date": "2013-06-14"
+    },
+    {
+        "set_name": "Battle Pack 2: War of the Giants",
+        "set_code": "BP02",
+        "num_of_cards": 215,
+        "tcg_date": "2013-06-28"
+    },
+    {
+        "set_name": "Number Hunters",
+        "set_code": "NUMH",
+        "num_of_cards": 60,
+        "tcg_date": "2013-07-12"
+    },
+    {
+        "set_name": "Judgment of the Light",
+        "set_code": "JOTL",
+        "num_of_cards": 100,
+        "tcg_date": "2013-08-09"
+    },
+    {
+        "set_name": "Legendary Collection 4: Joey's World Mega Pack",
+        "set_code": "LCJW",
+        "num_of_cards": 298,
+        "tcg_date": "2013-10-11"
+    },
+    {
+        "set_name": "Shadow Specters",
+        "set_code": "SHSP",
+        "num_of_cards": 100,
+        "tcg_date": "2013-11-08"
+    },
+    {
+        "set_name": "Starter Deck: Kaiba Reloaded",
+        "set_code": "YSKR",
+        "num_of_cards": 48,
+        "tcg_date": "2013-12-06"
+    },
+    {
+        "set_name": "Starter Deck: Yugi Reloaded",
+        "set_code": "YSYR",
+        "num_of_cards": 46,
+        "tcg_date": "2013-12-06"
+    },
+    {
+        "set_name": "War of the Giants Reinforcements",
+        "set_code": "WGRT",
+        "num_of_cards": 104,
+        "tcg_date": "2014-01-17"
+    },
+    {
+        "set_name": "War of the Giants: Round 2",
+        "set_code": "BPW2",
+        "num_of_cards": 103,
+        "tcg_date": "2014-01-17"
+    },
+    {
+        "set_name": "Legacy of the Valiant",
+        "set_code": "LVAL",
+        "num_of_cards": 100,
+        "tcg_date": "2014-01-24"
+    },
+    {
+        "set_name": "Star Pack 2014",
+        "set_code": "SP14",
+        "num_of_cards": 50,
+        "tcg_date": "2014-02-21"
+    },
+    {
+        "set_name": "Premium Gold",
+        "set_code": "PGLD",
+        "num_of_cards": 90,
+        "tcg_date": "2014-03-28"
+    },
+    {
+        "set_name": "Dragons of Legend",
+        "set_code": "DRLG",
+        "num_of_cards": 51,
+        "tcg_date": "2014-04-25"
+    },
+    {
+        "set_name": "Primal Origin",
+        "set_code": "PRIO",
+        "num_of_cards": 100,
+        "tcg_date": "2014-05-16"
+    },
+    {
+        "set_name": "Super Starter: Space-Time Showdown",
+        "set_code": "YS14",
+        "num_of_cards": 40,
+        "tcg_date": "2014-07-10"
+    },
+    {
+        "set_name": "Battle Pack 3: Monster League",
+        "set_code": "BP03",
+        "num_of_cards": 237,
+        "tcg_date": "2014-07-31"
+    },
+    {
+        "set_name": "Duelist Alliance",
+        "set_code": "DUEA",
+        "num_of_cards": 100,
+        "tcg_date": "2014-08-14"
+    },
+    {
+        "set_name": "2014 Mega-Tin Mega Pack",
+        "set_code": "MP14",
+        "num_of_cards": 247,
+        "tcg_date": "2014-08-28"
+    },
+    {
+        "set_name": "Legendary Collection 5D's Mega Pack",
+        "set_code": "LC5D",
+        "num_of_cards": 256,
+        "tcg_date": "2014-10-23"
+    },
+    {
+        "set_name": "The New Challengers",
+        "set_code": "NECH",
+        "num_of_cards": 100,
+        "tcg_date": "2014-11-06"
+    },
+    {
+        "set_name": "Secrets of Eternity",
+        "set_code": "SECE",
+        "num_of_cards": 100,
+        "tcg_date": "2015-01-15"
+    },
+    {
+        "set_name": "The Secret Forces",
+        "set_code": "THSF",
+        "num_of_cards": 60,
+        "tcg_date": "2015-02-12"
+    },
+    {
+        "set_name": "Premium Gold: Return of the Bling",
+        "set_code": "PGL2",
+        "num_of_cards": 91,
+        "tcg_date": "2015-03-19"
+    },
+    {
+        "set_name": "World Superstars",
+        "set_code": "WSUP",
+        "num_of_cards": 50,
+        "tcg_date": "2015-04-16"
+    },
+    {
+        "set_name": "Crossed Souls",
+        "set_code": "CROS",
+        "num_of_cards": 100,
+        "tcg_date": "2015-05-14"
+    },
+    {
+        "set_name": "2-Player Starter Deck: Yuya & Declan",
+        "set_code": "YS15",
+        "num_of_cards": 42,
+        "tcg_date": "2015-05-28"
+    },
+    {
+        "set_name": "Star Pack ARC-V",
+        "set_code": "SP15",
+        "num_of_cards": 50,
+        "tcg_date": "2015-06-12"
+    },
+    {
+        "set_name": "Duelist Pack: Battle City",
+        "set_code": "DPBC",
+        "num_of_cards": 47,
+        "tcg_date": "2015-06-19"
+    },
+    {
+        "set_name": "Dragons of Legend 2",
+        "set_code": "DRL2",
+        "num_of_cards": 45,
+        "tcg_date": "2015-07-16"
+    },
+    {
+        "set_name": "Clash of Rebellions",
+        "set_code": "CORE",
+        "num_of_cards": 100,
+        "tcg_date": "2015-08-06"
+    },
+    {
+        "set_name": "2015 Mega-Tin Mega Pack",
+        "set_code": "MP15",
+        "num_of_cards": 247,
+        "tcg_date": "2015-09-17"
+    },
+    {
+        "set_name": "High-Speed Riders",
+        "set_code": "HSRD",
+        "num_of_cards": 60,
+        "tcg_date": "2015-10-01"
+    },
+    {
+        "set_name": "Dimension of Chaos",
+        "set_code": "DOCS",
+        "num_of_cards": 100,
+        "tcg_date": "2015-11-05"
+    },
+    {
+        "set_name": "Yugi's Legendary Decks",
+        "set_code": "YGLD",
+        "num_of_cards": 126,
+        "tcg_date": "2015-11-12"
+    },
+    {
+        "set_name": "Breakers of Shadow",
+        "set_code": "BOSH",
+        "num_of_cards": 100,
+        "tcg_date": "2016-01-14"
+    },
+    {
+        "set_name": "Wing Raiders",
+        "set_code": "WIRA",
+        "num_of_cards": 60,
+        "tcg_date": "2016-02-11"
+    },
+    {
+        "set_name": "Premium Gold: Infinite Gold",
+        "set_code": "PGL3",
+        "num_of_cards": 100,
+        "tcg_date": "2016-03-17"
+    },
+    {
+        "set_name": "Millennium Pack",
+        "set_code": "MIL1",
+        "num_of_cards": 48,
+        "tcg_date": "2016-04-14"
+    },
+    {
+        "set_name": "Shining Victories",
+        "set_code": "SHVI",
+        "num_of_cards": 100,
+        "tcg_date": "2016-05-05"
+    },
+    {
+        "set_name": "Starter Deck: Yuya",
+        "set_code": "YS16",
+        "num_of_cards": 43,
+        "tcg_date": "2016-05-26"
+    },
+    {
+        "set_name": "Yu-Gi-Oh! The Dark Side of Dimensions Movie Pack",
+        "set_code": "MVP1",
+        "num_of_cards": 57,
+        "tcg_date": "2016-07-21"
+    },
+    {
+        "set_name": "The Dark Illusion",
+        "set_code": "TDIL",
+        "num_of_cards": 100,
+        "tcg_date": "2016-08-04"
+    },
+    {
+        "set_name": "Dragons of Legend: Unleashed",
+        "set_code": "DRL3",
+        "num_of_cards": 73,
+        "tcg_date": "2016-08-18"
+    },
+    {
+        "set_name": "2016 Mega-Tin Mega Pack",
+        "set_code": "MP16",
+        "num_of_cards": 239,
+        "tcg_date": "2016-09-01"
+    },
+    {
+        "set_name": "Duelist Pack: Rivals of the Pharaoh",
+        "set_code": "DPRP",
+        "num_of_cards": 46,
+        "tcg_date": "2016-09-15"
+    },
+    {
+        "set_name": "Legendary Decks II",
+        "set_code": "LDK2",
+        "num_of_cards": 129,
+        "tcg_date": "2016-10-06"
+    },
+    {
+        "set_name": "Invasion: Vengeance",
+        "set_code": "INOV",
+        "num_of_cards": 100,
+        "tcg_date": "2016-11-03"
+    },
+    {
+        "set_name": "Destiny Soldiers",
+        "set_code": "DESO",
+        "num_of_cards": 60,
+        "tcg_date": "2016-11-17"
+    },
+    {
+        "set_name": "Yu-Gi-Oh! The Dark Side of Dimensions Movie Pack: Gold Edition",
+        "set_code": "MVP1",
+        "num_of_cards": 61,
+        "tcg_date": "2017-01-12"
+    },
+    {
+        "set_name": "Raging Tempest",
+        "set_code": "RATE",
+        "num_of_cards": 100,
+        "tcg_date": "2017-02-09"
+    },
+    {
+        "set_name": "Fusion Enforcers",
+        "set_code": "FUEN",
+        "num_of_cards": 60,
+        "tcg_date": "2017-02-23"
+    },
+    {
+        "set_name": "Star Pack Battle Royal",
+        "set_code": "SP17",
+        "num_of_cards": 50,
+        "tcg_date": "2017-03-09"
+    },
+    {
+        "set_name": "Duelist Saga",
+        "set_code": "DUSA",
+        "num_of_cards": 100,
+        "tcg_date": "2017-03-30"
+    },
+    {
+        "set_name": "Maximum Crisis",
+        "set_code": "MACR",
+        "num_of_cards": 100,
+        "tcg_date": "2017-05-04"
+    },
+    {
+        "set_name": "Duelist Pack: Dimensional Guardians",
+        "set_code": "DPDG",
+        "num_of_cards": 45,
+        "tcg_date": "2017-05-25"
+    },
+    {
+        "set_name": "Pendulum Evolution",
+        "set_code": "PEVO",
+        "num_of_cards": 60,
+        "tcg_date": "2017-06-22"
+    },
+    {
+        "set_name": "Battles of Legend: Light's Revenge",
+        "set_code": "BLLR",
+        "num_of_cards": 80,
+        "tcg_date": "2017-07-06"
+    },
+    {
+        "set_name": "Starter Deck: Link Strike",
+        "set_code": "YS17",
+        "num_of_cards": 43,
+        "tcg_date": "2017-07-20"
+    },
+    {
+        "set_name": "Code of the Duelist",
+        "set_code": "COTD",
+        "num_of_cards": 100,
+        "tcg_date": "2017-08-03"
+    },
+    {
+        "set_name": "2017 Mega-Tin Mega Pack",
+        "set_code": "MP17",
+        "num_of_cards": 239,
+        "tcg_date": "2017-08-24"
+    },
+    {
+        "set_name": "Legendary Duelists",
+        "set_code": "LEDU",
+        "num_of_cards": 52,
+        "tcg_date": "2017-09-07"
+    },
+    {
+        "set_name": "Legendary Dragon Decks",
+        "set_code": "LEDD",
+        "num_of_cards": 111,
+        "tcg_date": "2017-10-05"
+    },
+    {
+        "set_name": "Circuit Break",
+        "set_code": "CIBR",
+        "num_of_cards": 100,
+        "tcg_date": "2017-10-19"
+    },
+    {
+        "set_name": "Spirit Warriors",
+        "set_code": "SPWA",
+        "num_of_cards": 60,
+        "tcg_date": "2017-11-16"
+    },
+    {
+        "set_name": "Extreme Force",
+        "set_code": "EXFO",
+        "num_of_cards": 100,
+        "tcg_date": "2018-02-01"
+    },
+    {
+        "set_name": "Legendary Duelists: Ancient Millennium",
+        "set_code": "LED2",
+        "num_of_cards": 53,
+        "tcg_date": "2018-02-22"
+    },
+    {
+        "set_name": "Legendary Collection Kaiba Mega Pack",
+        "set_code": "LCKC",
+        "num_of_cards": 110,
+        "tcg_date": "2018-03-08"
+    },
+    {
+        "set_name": "Star Pack VRAINS",
+        "set_code": "SP18",
+        "num_of_cards": 50,
+        "tcg_date": "2018-03-29"
+    },
+    {
+        "set_name": "Flames of Destruction",
+        "set_code": "FLOD",
+        "num_of_cards": 100,
+        "tcg_date": "2018-05-03"
+    },
+    {
+        "set_name": "Dark Saviors",
+        "set_code": "DASA",
+        "num_of_cards": 60,
+        "tcg_date": "2018-05-24"
+    },
+    {
+        "set_name": "Battles of Legend: Relentless Revenge",
+        "set_code": "BLRR",
+        "num_of_cards": 105,
+        "tcg_date": "2018-06-28"
+    },
+    {
+        "set_name": "Starter Deck: Codebreaker",
+        "set_code": "YS18",
+        "num_of_cards": 45,
+        "tcg_date": "2018-07-12"
+    },
+    {
+        "set_name": "Cybernetic Horizon",
+        "set_code": "CYHO",
+        "num_of_cards": 100,
+        "tcg_date": "2018-07-26"
+    },
+    {
+        "set_name": "Shadows in Valhalla",
+        "set_code": "SHVA",
+        "num_of_cards": 60,
+        "tcg_date": "2018-08-16"
+    },
+    {
+        "set_name": "2018 Mega-Tin Mega Pack",
+        "set_code": "MP18",
+        "num_of_cards": 233,
+        "tcg_date": "2018-08-30"
+    },
+    {
+        "set_name": "Legendary Duelists: White Dragon Abyss",
+        "set_code": "LED3",
+        "num_of_cards": 56,
+        "tcg_date": "2018-09-27"
+    },
+    {
+        "set_name": "Legendary Hero Decks",
+        "set_code": "LEHD",
+        "num_of_cards": 117,
+        "tcg_date": "2018-10-04"
+    },
+    {
+        "set_name": "Soul Fusion",
+        "set_code": "SOFU",
+        "num_of_cards": 100,
+        "tcg_date": "2018-10-18"
+    },
+    {
+        "set_name": "Hidden Summoners",
+        "set_code": "HISU",
+        "num_of_cards": 60,
+        "tcg_date": "2018-11-15"
+    },
+    {
+        "set_name": "Legendary Duelists: Sisters of the Rose",
+        "set_code": "LED4",
+        "num_of_cards": 56,
+        "tcg_date": "2019-01-10"
+    },
+    {
+        "set_name": "Savage Strike",
+        "set_code": "SAST",
+        "num_of_cards": 100,
+        "tcg_date": "2019-01-31"
+    },
+    {
+        "set_name": "The Infinity Chasers",
+        "set_code": "INCH",
+        "num_of_cards": 60,
+        "tcg_date": "2019-03-21"
+    },
+    {
+        "set_name": "Duel Power",
+        "set_code": "DUPO",
+        "num_of_cards": 106,
+        "tcg_date": "2019-04-03"
+    },
+    {
+        "set_name": "Dark Neostorm",
+        "set_code": "DANE",
+        "num_of_cards": 100,
+        "tcg_date": "2019-05-02"
+    },
+    {
+        "set_name": "Battles of Legend: Hero's Revenge",
+        "set_code": "BLHR",
+        "num_of_cards": 94,
+        "tcg_date": "2019-06-11"
+    },
+    {
+        "set_name": "Rising Rampage",
+        "set_code": "RIRA",
+        "num_of_cards": 100,
+        "tcg_date": "2019-06-26"
+    },
+    {
+        "set_name": "Fists of the Gadgets",
+        "set_code": "FIGA",
+        "num_of_cards": 60,
+        "tcg_date": "2019-08-22"
+    },
+    {
+        "set_name": "2019 Gold Sarcophagus Tin Mega Pack",
+        "set_code": "MP19",
+        "num_of_cards": 270,
+        "tcg_date": "2019-08-29"
+    },
+    {
+        "set_name": "Legendary Duelists: Immortal Destiny",
+        "set_code": "LED5",
+        "num_of_cards": 58,
+        "tcg_date": "2019-09-26"
+    },
+    {
+        "set_name": "Duel Devastator",
+        "set_code": "DUDE",
+        "num_of_cards": 56,
+        "tcg_date": "2019-10-11"
+    },
+    {
+        "set_name": "Chaos Impact",
+        "set_code": "CHIM",
+        "num_of_cards": 100,
+        "tcg_date": "2019-10-24"
+    },
+    {
+        "set_name": "Mystic Fighters",
+        "set_code": "MYFI",
+        "num_of_cards": 60,
+        "tcg_date": "2019-11-22"
+    },
+    {
+        "set_name": "Legendary Duelists: Magical Hero",
+        "set_code": "LED6",
+        "num_of_cards": 56,
+        "tcg_date": "2020-01-17"
+    },
+    {
+        "set_name": "Yu-Gi-Oh! The Dark Side of Dimensions Movie Pack Secret Edition",
+        "set_code": "MVP1",
+        "num_of_cards": 63,
+        "tcg_date": "2020-01-23"
+    },
+    {
+        "set_name": "Ignition Assault",
+        "set_code": "IGAS",
+        "num_of_cards": 100,
+        "tcg_date": "2020-01-31"
+    },
+    {
+        "set_name": "Duel Overload",
+        "set_code": "DUOV",
+        "num_of_cards": 100,
+        "tcg_date": "2020-03-19"
+    },
+    {
+        "set_name": "Secret Slayers",
+        "set_code": "SESL",
+        "num_of_cards": 60,
+        "tcg_date": "2020-04-03"
+    },
+    {
+        "set_name": "Eternity Code",
+        "set_code": "ETCO",
+        "num_of_cards": 101,
+        "tcg_date": "2020-06-01"
+    },
+    {
+        "set_name": "Toon Chaos",
+        "set_code": "TOCH",
+        "num_of_cards": 60,
+        "tcg_date": "2020-06-19"
+    },
+    {
+        "set_name": "Legendary Duelists: Season 1",
+        "set_code": "LDS1",
+        "num_of_cards": 121,
+        "tcg_date": "2020-07-03"
+    },
+    {
+        "set_name": "Battles of Legend: Armageddon",
+        "set_code": "BLAR",
+        "num_of_cards": 94,
+        "tcg_date": "2020-07-24"
+    },
+    {
+        "set_name": "Rise of the Duelist",
+        "set_code": "ROTD",
+        "num_of_cards": 101,
+        "tcg_date": "2020-08-06"
+    },
+    {
+        "set_name": "2020 Tin of Lost Memories Mega Pack",
+        "set_code": "MP20",
+        "num_of_cards": 248,
+        "tcg_date": "2020-08-27"
+    },
+    {
+        "set_name": "Dragons of Legend: The Complete Series",
+        "set_code": "DLCS",
+        "num_of_cards": 149,
+        "tcg_date": "2020-09-10"
+    },
+    {
+        "set_name": "Legendary Duelists: Rage of Ra",
+        "set_code": "LED7",
+        "num_of_cards": 57,
+        "tcg_date": "2020-09-24"
+    },
+    {
+        "set_name": "Phantom Rage",
+        "set_code": "PHRA",
+        "num_of_cards": 101,
+        "tcg_date": "2020-11-05"
+    },
+    {
+        "set_name": "Maximum Gold",
+        "set_code": "MAGO",
+        "num_of_cards": 162,
+        "tcg_date": "2020-11-12"
+    },
+    {
+        "set_name": "Genesis Impact",
+        "set_code": "GEIM",
+        "num_of_cards": 60,
+        "tcg_date": "2020-12-03"
+    },
+    {
+        "set_name": "Legendary Duelists: Season 2",
+        "set_code": "LDS2",
+        "num_of_cards": 130,
+        "tcg_date": "2021-01-21"
+    },
+    {
+        "set_name": "Blazing Vortex",
+        "set_code": "BLVO",
+        "num_of_cards": 101,
+        "tcg_date": "2021-02-04"
+    }
+]
