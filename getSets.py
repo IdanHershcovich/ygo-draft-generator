@@ -2,6 +2,11 @@ import requests
 import json
 from datetime import datetime
 
+# get all sets
+# save sets to local file
+# filter and sort sets in file
+# read and write to local file
+
 
 def getSetsJSON():
     """Grabs all the yugioh sets from the ygoprodeck API
@@ -37,7 +42,8 @@ def saveSets():
     """Saves the yugioh sets returned from getSetsJSON() to a local .json file to avoid API calls """
     sets = getSetsJSON()
     writeJSONFile(sets, 'ygo-sets.json')
-            
+
+
 def filterSets():
     """Filters all the available sets to only exclude Speed Duel sets, promotional sets and Structure Decks"""
     sets = readJSONFile('ygo-sets.json')
@@ -47,6 +53,7 @@ def filterSets():
             continue
         filtered.append(cardset)
     writeJSONFile(filtered, 'ygo-sets.json')
+
 
 def readJSONFile(filename):
     """Reads the local JSON file containing the Card Sets
@@ -61,7 +68,8 @@ def readJSONFile(filename):
         data = json.load(f)
     return data
 
-def writeJSONFile(data,filename):
+
+def writeJSONFile(data, filename):
     """[Function to write to a specified JSON file]
 
     Args:
@@ -70,10 +78,13 @@ def writeJSONFile(data,filename):
     """
     with open(filename, 'w', encoding='utf-8') as f:
         json.dump(data, f, ensure_ascii=False, indent=4)
-    
+
+
 def sortSetsByDate():
     """Grabs the date attribute of the JSON Card Sets and sorts them by date. Oldest to Newest"""
     filename = 'ygo-sets.json'
     sets = readJSONFile(filename)
-    sorted_sets = sorted(sets, key=lambda x: datetime.strptime(x['tcg_date'], "%Y-%m-%d"))
+    sorted_sets = sorted(
+        sets, key=lambda x: datetime.strptime(x['tcg_date'], "%Y-%m-%d"))
     writeJSONFile(sorted_sets, filename)
+
